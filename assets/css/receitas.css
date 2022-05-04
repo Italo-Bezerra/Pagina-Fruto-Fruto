@@ -4,6 +4,9 @@
     flex-wrap: wrap;
     
 }
+.receitas div:hover{
+	transform: scale(1.1);
+}
 
 @media screen and (min-width: 0){ /*Responsividade para celular*/
     .receitas{

@@ -4,6 +4,10 @@
     justify-content: space-around;
 }
 
+.pessoas .pessoa:hover{
+    transform: scale(1.1);
+}
+
 @media screen and (min-width: 0) {
     .pessoas{
         flex-direction: column;
